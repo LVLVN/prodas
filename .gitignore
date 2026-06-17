@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*.pth
+work_dirs/
+.env
+.venv/
+venv/
+.idea/
+.vscode/
+*.log
